@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://srikanth-14.github.io/csb-rlt07/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://srikanth-14.github.io/csb-rlt07/static/js/main.1eeea308.chunk.js",
+    "main.js.map": "https://srikanth-14.github.io/csb-rlt07/static/js/main.1eeea308.chunk.js.map",
+    "runtime-main.js": "https://srikanth-14.github.io/csb-rlt07/static/js/runtime-main.433f14c9.js",
+    "runtime-main.js.map": "https://srikanth-14.github.io/csb-rlt07/static/js/runtime-main.433f14c9.js.map",
+    "static/js/2.65b3dd8d.chunk.js": "https://srikanth-14.github.io/csb-rlt07/static/js/2.65b3dd8d.chunk.js",
+    "static/js/2.65b3dd8d.chunk.js.map": "https://srikanth-14.github.io/csb-rlt07/static/js/2.65b3dd8d.chunk.js.map",
+    "index.html": "https://srikanth-14.github.io/csb-rlt07/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://srikanth-14.github.io/csb-rlt07/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.65b3dd8d.chunk.js.LICENSE.txt": "https://srikanth-14.github.io/csb-rlt07/static/js/2.65b3dd8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433f14c9.js",
+    "static/js/2.65b3dd8d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1eeea308.chunk.js"
+  ]
+}
